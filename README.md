@@ -1,5 +1,5 @@
 
- <h1 align:"center"> Hi there 👋, my name is Ayan Rafiqi </h1>
+ <h1 align:"center"> Hi there 👋, I'm Ayan Rafiqi </h1>
 <h4 align:"center" > Aspiring full-stack developer, I really enjoy learning languages and frameworks like React </h4>
 
 
