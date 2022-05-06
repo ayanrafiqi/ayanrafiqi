@@ -1,4 +1,4 @@
-      ### Hi there 👋, my name is Ayan Rafiqi
+ ### Hi there 👋, my name is Ayan Rafiqi
 Aspiring full-stack developer, I really enjoy learning languages and frameworks like React 
 
 Skills: HTML / CSS / JS / REACT/ PostgreSql / Java / DSA 
@@ -20,13 +20,3 @@ Skills: HTML / CSS / JS / REACT/ PostgreSql / Java / DSA
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ayanrafiqi)  
 
 ![Profile views](https://gpvc.arturio.dev/ayanrafiqi)  
- 
- 
-[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanrafiqi)](https://github.com/ayanrafiqi/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=ayanrafiqi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanrafiqi&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanrafiqi&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayanrafiqi&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayanrafiqi&repo=github-readme-stats)](https://github.com/ayanrafiqi/github-readme-stats)
