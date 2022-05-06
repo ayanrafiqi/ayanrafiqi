@@ -13,7 +13,7 @@
 
 <h3 align = "left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ayan-rafiqi/)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ayan_rafiqi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ayan-rafiqi)     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ayan_rafiqi)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanrafiqi)](https://github.com/anuraghazra/github-readme-stats)
