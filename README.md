@@ -4,7 +4,7 @@
 
 
 
-<h4>Skills: HTML / CSS / JS / REACT/ PostgreSql / Java / DSA  </h4>
+<h4>Skills: HTML / CSS / JS / REACT/ PostgreSql / Java / C-Programming / DSA  </h4>
 
 - <h4>🔭 I’m currently working on AWS cloud based projects </h4> 
 
