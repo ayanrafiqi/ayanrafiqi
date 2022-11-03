@@ -5,7 +5,7 @@
 
 
 
-<h4>Skills: HTML / CSS / JS / AWS / REACT JS / NODE JS / EXPRESS JS / PostgreSql / Java / C-Programming / DSA  </h4>
+<h4>Skills: HTML / CSS / JS / AWS / REACT JS / NODE JS / EXPRESS JS / PostgreSql / NOSQL - MONGODB/ Java / C-Programming / DSA  </h4>
 
 - <h4>🔭 I’m currently working on AWS IOT based projects </h4> 
 
