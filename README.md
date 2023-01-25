@@ -23,8 +23,7 @@
  <img src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" width="60" height="60"/>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">                                                               
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="55"/> 
- <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="45" height="45"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a> <img src="https://user-images.githubusercontent.com/38128234/91002323-f5ac3380-e5eb-11ea-9160-df2ac844f3ed.png" width="45" height="45"/>
+ <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a> <img src="https://user-images.githubusercontent.com/38128234/91002323-f5ac3380-e5eb-11ea-9160-df2ac844f3ed.png" width="45" height="45"/>
  </p>
 
 <link rel="shortcut icon" href="{{ favicon('favicon.ico') }}" />
