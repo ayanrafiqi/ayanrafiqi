@@ -18,9 +18,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png"  alt="JS"  width="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" /> </a> <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon(asset('favicon-32x32.png')) }}">
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"/><a href="https://laravel.com" target="_blank">
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70"/><a href="https://laravel.com" target="_blank">
  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="90"  "alt="Laravel Logo"></a>
- <img src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" width="40" "/>
+ <img src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" width="60" "/>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">    
  <img src="https://user-images.githubusercontent.com/38128234/91002323-f5ac3380-e5eb-11ea-9160-df2ac844f3ed.png" width="40" /> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" /> 
