@@ -5,15 +5,15 @@
 
 
 
-<h4>Skills: HTML / CSS / JS / AWS / REACT JS / PHP Laravel / NODE JS / EXPRESS JS / PostgreSql / NOSQL - MONGODB/ Java / C-Programming / DSA  </h4>
+<h4>Skills: HTML / CSS / BOOTSTRAP / JS / AWS / REACT JS / PHP Laravel / NODE JS / EXPRESS JS / PostgreSql / NOSQL - MONGODB/ Java / C-Programming / DSA  </h4>
 
 - <h4>🔭 I’m currently working on Full stack web development projects </h4> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" /> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" /> </a>
-<img src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png"  width="40"  /> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" /> </a>
+<img src="https://user-images.githubusercontent.com/38128234/91002197-9f3ef500-e5eb-11ea-91fd-e8bbe7c96815.png"  width="50"  /> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" /> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/38128234/91001923-c6e18d80-e5ea-11ea-902a-ed8d23532b15.png"  alt="JS"  width="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>
