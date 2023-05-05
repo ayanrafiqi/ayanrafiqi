@@ -19,6 +19,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" /> </a> <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon(asset('favicon-32x32.png')) }}">
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70"/><a href="https://laravel.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg "alt="expressjs" width="40"/><a href="https://expressjs.com" target="_blank">
  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="90"  "alt="Laravel Logo"></a>
  <img src="https://user-images.githubusercontent.com/38128234/91002348-08bf0380-e5ec-11ea-8b47-dd4825ca9b9b.png" width="60" "/>
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">    
