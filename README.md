@@ -1,6 +1,6 @@
 
  <h1 align:"center"> Hi there 👋, I'm Ayan Rafiqi </h1>
-<h4 align:"center" > Aspiring full-stack developer, I really enjoy learning programming languages</h4>
+<h4 align:"center" > Full-stack developer, I really enjoy learning programming languages</h4>
 
 
 
